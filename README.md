@@ -21,10 +21,27 @@ $ conda config --add channels conda-forge
 $ conda install cookiecutter
 ```
 
-### To start a new project, run:
+### To start a new project:
+
+1. Run
 
 ```
 cookiecutter https://github.com/YKatser/ml-project-template
+```
+2. Create a GitLab Repo
+
+Go to your GitLab account and create a new repository. Name it after your `{{cookiecutter.project_name}}`.
+
+3.  Activate your GitLab repo
+
+On your computer, enter your newly created project folder, where project folder is the project_name you entered when you ran cookiecutter, then activate your repository:
+
+```
+git init .
+git add .
+git commit -m "Initial skeleton."
+git remote add origin your-gitlab-repo
+git push -u origin master
 ```
 
 ### The resulting directory structure
