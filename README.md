@@ -23,7 +23,9 @@ $ conda install cookiecutter
 
 ### To start a new project, run:
 
-`cookiecutter https://github.com/YKatser/ml-project-template`
+```
+cookiecutter https://github.com/YKatser/ml-project-template
+```
 
 ### The resulting directory structure
 
