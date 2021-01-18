@@ -5,6 +5,7 @@
     "description": "A short description of the project.",
     "venv_folder_name": ".cookiecutter_venvs",
     "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
+    "author_name": "Your name (or your organization/company/team)",
 
     "git_config_user_name": "do_not_set",
     "git_config_user_email": "do_not_set"
