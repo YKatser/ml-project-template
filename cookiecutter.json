@@ -1,0 +1,10 @@
+
+{
+    "project_name": "project name",
+    "directory_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "description": "A short description of the project.",
+    "venv_folder_name": ".cookiecutter_venvs",
+
+    "git_config_user_name": "do_not_set",
+    "git_config_user_email": "do_not_set"
+}
