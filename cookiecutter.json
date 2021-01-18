@@ -4,6 +4,7 @@
     "directory_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "description": "A short description of the project.",
     "venv_folder_name": ".cookiecutter_venvs",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
 
     "git_config_user_name": "do_not_set",
     "git_config_user_email": "do_not_set"
