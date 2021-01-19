@@ -5,6 +5,8 @@ Cookiecutter template for ML projects
 Inspired by:
 - [drivendata template](https://github.com/drivendata/cookiecutter-data-science)
 - [gazprom-neft template](https://github.com/gazprom-neft/ml_project_template)
+- [The Data Science Lifecycle Process](https://github.com/dslp/dslp-repo-template)
+- [hitchhikers-guide by Data Science for Social Good](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow)
 
 ### Requirements to use the cookiecutter template:
  - Python 3.5+
